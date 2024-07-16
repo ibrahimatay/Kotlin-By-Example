@@ -6,3 +6,4 @@ I have created a GitHub repository filled with annotated examples for those who 
 
 - [The Kotlin Programming Language](https://github.com/JetBrains/kotlin)
 - [Kotlin docs](https://kotlinlang.org/docs/home.html)
+- [Playground](https://play.kotlinlang.org/)
